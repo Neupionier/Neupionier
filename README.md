@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Neupionier
 - 👀 I’m interested in AI, computers and languages
 - 🌱 I’m currently learning prompt engineering
-- 📫 How to reach me heesungxp@gmail.com
 - 😄 Pronouns: he
 
 <!---
